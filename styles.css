@@ -66,7 +66,7 @@ header,
     }
     header {
         border-radius: 0px 0px 0px 80px;
-        background: url(/images/bg-pattern-intro.svg);
+        background: url(/Blogr/images/bg-pattern-intro.svg);
         background-color: #FF3D54;
         background-size: 400%;
         background-position: center;
@@ -203,7 +203,7 @@ header,
     header {
         /* background-color: #FF3D54; */
         height: 80vh;
-        background: url(/images/bg-pattern-intro.svg);
+        background: url(/Blogr/images/bg-pattern-intro.svg);
         background-color: #FF3D54;
         background-size: 150%;
         background-position: center;
@@ -341,7 +341,7 @@ header,
         display: none;
     }
     .wrapper-2 .image-container {
-        background: url(/images/bg-pattern-circles.svg) no-repeat;
+        background: url(/Blogr/images/bg-pattern-circles.svg) no-repeat;
         background-position: 75% 87%;
         width: 100%;
     }
